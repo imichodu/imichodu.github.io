@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://imichodu.github.io/sitemap.html
+Sitemap: https://imichodu.github.io/app/sitemap.html
+Sitemap: https://imichodu.github.io/assets/sitemap.html
+Sitemap: https://imichodu.github.io/includes/sitemap.html
+Sitemap: https://imichodu.github.io/src/sitemap.html
